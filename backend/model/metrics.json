@@ -1,0 +1,90 @@
+{
+  "accuracy": 0.9914383561643836,
+  "precision_weighted": 0.9914785490279043,
+  "recall_weighted": 0.9914383561643836,
+  "f1_weighted": 0.9914465515394426,
+  "f1_macro": 0.9896918295879358,
+  "brier_score_mean": 0.0097,
+  "brier_score_by_class": {
+    "Low": 0.0075,
+    "Moderate": 0.0147,
+    "High": 0.0069
+  },
+  "log_loss": 0.0689,
+  "confusion_matrix": [
+    [
+      184,
+      0,
+      0
+    ],
+    [
+      1,
+      116,
+      1
+    ],
+    [
+      0,
+      3,
+      279
+    ]
+  ],
+  "classification_report": {
+    "Low": {
+      "precision": 0.9945945945945946,
+      "recall": 1.0,
+      "f1-score": 0.997289972899729,
+      "support": 184.0
+    },
+    "Moderate": {
+      "precision": 0.9747899159663865,
+      "recall": 0.9830508474576272,
+      "f1-score": 0.9789029535864979,
+      "support": 118.0
+    },
+    "High": {
+      "precision": 0.9964285714285714,
+      "recall": 0.9893617021276596,
+      "f1-score": 0.9928825622775801,
+      "support": 282.0
+    },
+    "accuracy": 0.9914383561643836,
+    "macro avg": {
+      "precision": 0.9886043606631842,
+      "recall": 0.9908041831950957,
+      "f1-score": 0.9896918295879358,
+      "support": 584.0
+    },
+    "weighted avg": {
+      "precision": 0.9914785490279043,
+      "recall": 0.9914383561643836,
+      "f1-score": 0.9914465515394426,
+      "support": 584.0
+    }
+  },
+  "model_comparison": {
+    "RandomForestClassifier": 0.9914,
+    "DecisionTreeClassifier": 0.9898,
+    "LogisticRegression": 0.9137
+  },
+  "feature_importance": {
+    "attendance_pct": 0.1229,
+    "margin_to_threshold": 0.226,
+    "recent_absence_rate": 0.047,
+    "recent_vs_overall_delta": 0.1498,
+    "consecutive_absences": 0.0092,
+    "longest_absence_streak": 0.0116,
+    "absence_acceleration": 0.0611,
+    "remaining_classes": 0.0041,
+    "projected_if_attend_all": 0.061,
+    "projected_if_miss_next": 0.0402,
+    "recovery_ratio": 0.1392,
+    "expected_final_attendance": 0.113,
+    "worst_case_attendance": 0.0148
+  },
+  "n_samples": 2915,
+  "train_size": 2331,
+  "test_size": 584,
+  "algorithm": "RandomForestClassifier",
+  "target_definition": "Predicting academic attendance risk category (Low / Moderate / High) based on chronological attendance time-series, behavioral trends, and remaining class feasibility.",
+  "notes": "Model selected via comparative evaluation with student-grouped train/test split. Trained on synthetic behavioral trajectories with Markov absence clustering. Probabilities reflect calibrated classification confidence rather than unvalidated institutional certainty."
+}

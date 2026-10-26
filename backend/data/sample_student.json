@@ -1,0 +1,1211 @@
+{
+  "student": {
+    "id": "CSE22-KRRISH",
+    "name": "Krrish Gupta",
+    "program": "B.Tech Computer Science & Engineering",
+    "year": 3,
+    "semester": 5,
+    "threshold": 75,
+    "history_type": "actual_student_records"
+  },
+  "subjects": [
+    {
+      "id": "cse3101",
+      "code": "CSE3101",
+      "name": "Computer Networks",
+      "attended": 29,
+      "absent": 7,
+      "conducted": 36,
+      "semester_total": 48,
+      "remaining": 12,
+      "has_records": true,
+      "displayed_attendance": "81%",
+      "recent_pattern": [
+        "P",
+        "P",
+        "A",
+        "P",
+        "P"
+      ],
+      "weekly_trend": [
+        83,
+        83,
+        83,
+        79,
+        80,
+        81
+      ],
+      "attendance_history": [
+        {
+          "session": 1,
+          "date": "2026-07-20",
+          "status": "present"
+        },
+        {
+          "session": 2,
+          "date": "2026-07-21",
+          "status": "present"
+        },
+        {
+          "session": 3,
+          "date": "2026-07-22",
+          "status": "absent"
+        },
+        {
+          "session": 4,
+          "date": "2026-07-23",
+          "status": "present"
+        },
+        {
+          "session": 5,
+          "date": "2026-07-24",
+          "status": "present"
+        },
+        {
+          "session": 6,
+          "date": "2026-07-27",
+          "status": "present"
+        },
+        {
+          "session": 7,
+          "date": "2026-07-28",
+          "status": "present"
+        },
+        {
+          "session": 8,
+          "date": "2026-07-29",
+          "status": "absent"
+        },
+        {
+          "session": 9,
+          "date": "2026-07-30",
+          "status": "present"
+        },
+        {
+          "session": 10,
+          "date": "2026-07-31",
+          "status": "present"
+        },
+        {
+          "session": 11,
+          "date": "2026-08-03",
+          "status": "present"
+        },
+        {
+          "session": 12,
+          "date": "2026-08-04",
+          "status": "present"
+        },
+        {
+          "session": 13,
+          "date": "2026-08-05",
+          "status": "absent"
+        },
+        {
+          "session": 14,
+          "date": "2026-08-06",
+          "status": "present"
+        },
+        {
+          "session": 15,
+          "date": "2026-08-07",
+          "status": "present"
+        },
+        {
+          "session": 16,
+          "date": "2026-08-10",
+          "status": "present"
+        },
+        {
+          "session": 17,
+          "date": "2026-08-11",
+          "status": "present"
+        },
+        {
+          "session": 18,
+          "date": "2026-08-12",
+          "status": "present"
+        },
+        {
+          "session": 19,
+          "date": "2026-08-13",
+          "status": "absent"
+        },
+        {
+          "session": 20,
+          "date": "2026-08-14",
+          "status": "present"
+        },
+        {
+          "session": 21,
+          "date": "2026-08-17",
+          "status": "present"
+        },
+        {
+          "session": 22,
+          "date": "2026-08-18",
+          "status": "present"
+        },
+        {
+          "session": 23,
+          "date": "2026-08-19",
+          "status": "present"
+        },
+        {
+          "session": 24,
+          "date": "2026-08-20",
+          "status": "absent"
+        },
+        {
+          "session": 25,
+          "date": "2026-08-21",
+          "status": "present"
+        },
+        {
+          "session": 26,
+          "date": "2026-08-24",
+          "status": "present"
+        },
+        {
+          "session": 27,
+          "date": "2026-08-25",
+          "status": "present"
+        },
+        {
+          "session": 28,
+          "date": "2026-08-26",
+          "status": "present"
+        },
+        {
+          "session": 29,
+          "date": "2026-08-27",
+          "status": "absent"
+        },
+        {
+          "session": 30,
+          "date": "2026-08-28",
+          "status": "present"
+        },
+        {
+          "session": 31,
+          "date": "2026-08-31",
+          "status": "present"
+        },
+        {
+          "session": 32,
+          "date": "2026-09-01",
+          "status": "present"
+        },
+        {
+          "session": 33,
+          "date": "2026-09-02",
+          "status": "present"
+        },
+        {
+          "session": 34,
+          "date": "2026-09-03",
+          "status": "absent"
+        },
+        {
+          "session": 35,
+          "date": "2026-09-04",
+          "status": "present"
+        },
+        {
+          "session": 36,
+          "date": "2026-09-07",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "cse3102",
+      "code": "CSE3102",
+      "name": "Software Engineering",
+      "attended": 31,
+      "absent": 9,
+      "conducted": 40,
+      "semester_total": 48,
+      "remaining": 8,
+      "has_records": true,
+      "displayed_attendance": "78%",
+      "recent_pattern": [
+        "P",
+        "P",
+        "A",
+        "P",
+        "P"
+      ],
+      "weekly_trend": [
+        75,
+        78,
+        79,
+        77,
+        78,
+        78
+      ],
+      "attendance_history": [
+        {
+          "session": 1,
+          "date": "2026-07-20",
+          "status": "present"
+        },
+        {
+          "session": 2,
+          "date": "2026-07-21",
+          "status": "present"
+        },
+        {
+          "session": 3,
+          "date": "2026-07-22",
+          "status": "absent"
+        },
+        {
+          "session": 4,
+          "date": "2026-07-23",
+          "status": "present"
+        },
+        {
+          "session": 5,
+          "date": "2026-07-24",
+          "status": "present"
+        },
+        {
+          "session": 6,
+          "date": "2026-07-27",
+          "status": "present"
+        },
+        {
+          "session": 7,
+          "date": "2026-07-28",
+          "status": "absent"
+        },
+        {
+          "session": 8,
+          "date": "2026-07-29",
+          "status": "present"
+        },
+        {
+          "session": 9,
+          "date": "2026-07-30",
+          "status": "present"
+        },
+        {
+          "session": 10,
+          "date": "2026-07-31",
+          "status": "present"
+        },
+        {
+          "session": 11,
+          "date": "2026-08-03",
+          "status": "present"
+        },
+        {
+          "session": 12,
+          "date": "2026-08-04",
+          "status": "absent"
+        },
+        {
+          "session": 13,
+          "date": "2026-08-05",
+          "status": "present"
+        },
+        {
+          "session": 14,
+          "date": "2026-08-06",
+          "status": "present"
+        },
+        {
+          "session": 15,
+          "date": "2026-08-07",
+          "status": "present"
+        },
+        {
+          "session": 16,
+          "date": "2026-08-10",
+          "status": "absent"
+        },
+        {
+          "session": 17,
+          "date": "2026-08-11",
+          "status": "present"
+        },
+        {
+          "session": 18,
+          "date": "2026-08-12",
+          "status": "present"
+        },
+        {
+          "session": 19,
+          "date": "2026-08-13",
+          "status": "present"
+        },
+        {
+          "session": 20,
+          "date": "2026-08-14",
+          "status": "present"
+        },
+        {
+          "session": 21,
+          "date": "2026-08-17",
+          "status": "absent"
+        },
+        {
+          "session": 22,
+          "date": "2026-08-18",
+          "status": "present"
+        },
+        {
+          "session": 23,
+          "date": "2026-08-19",
+          "status": "present"
+        },
+        {
+          "session": 24,
+          "date": "2026-08-20",
+          "status": "present"
+        },
+        {
+          "session": 25,
+          "date": "2026-08-21",
+          "status": "absent"
+        },
+        {
+          "session": 26,
+          "date": "2026-08-24",
+          "status": "present"
+        },
+        {
+          "session": 27,
+          "date": "2026-08-25",
+          "status": "present"
+        },
+        {
+          "session": 28,
+          "date": "2026-08-26",
+          "status": "present"
+        },
+        {
+          "session": 29,
+          "date": "2026-08-27",
+          "status": "absent"
+        },
+        {
+          "session": 30,
+          "date": "2026-08-28",
+          "status": "present"
+        },
+        {
+          "session": 31,
+          "date": "2026-08-31",
+          "status": "present"
+        },
+        {
+          "session": 32,
+          "date": "2026-09-01",
+          "status": "present"
+        },
+        {
+          "session": 33,
+          "date": "2026-09-02",
+          "status": "present"
+        },
+        {
+          "session": 34,
+          "date": "2026-09-03",
+          "status": "absent"
+        },
+        {
+          "session": 35,
+          "date": "2026-09-04",
+          "status": "present"
+        },
+        {
+          "session": 36,
+          "date": "2026-09-07",
+          "status": "present"
+        },
+        {
+          "session": 37,
+          "date": "2026-09-08",
+          "status": "present"
+        },
+        {
+          "session": 38,
+          "date": "2026-09-09",
+          "status": "absent"
+        },
+        {
+          "session": 39,
+          "date": "2026-09-10",
+          "status": "present"
+        },
+        {
+          "session": 40,
+          "date": "2026-09-11",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "cse3121",
+      "code": "CSE3121",
+      "name": "Artificial Intelligence & Soft Computing",
+      "attended": 30,
+      "absent": 9,
+      "conducted": 39,
+      "semester_total": 48,
+      "remaining": 9,
+      "has_records": true,
+      "displayed_attendance": "77%",
+      "recent_pattern": [
+        "P",
+        "P",
+        "A",
+        "P",
+        "P"
+      ],
+      "weekly_trend": [
+        75,
+        78,
+        75,
+        77,
+        78,
+        77
+      ],
+      "attendance_history": [
+        {
+          "session": 1,
+          "date": "2026-07-20",
+          "status": "present"
+        },
+        {
+          "session": 2,
+          "date": "2026-07-21",
+          "status": "present"
+        },
+        {
+          "session": 3,
+          "date": "2026-07-22",
+          "status": "absent"
+        },
+        {
+          "session": 4,
+          "date": "2026-07-23",
+          "status": "present"
+        },
+        {
+          "session": 5,
+          "date": "2026-07-24",
+          "status": "present"
+        },
+        {
+          "session": 6,
+          "date": "2026-07-27",
+          "status": "present"
+        },
+        {
+          "session": 7,
+          "date": "2026-07-28",
+          "status": "absent"
+        },
+        {
+          "session": 8,
+          "date": "2026-07-29",
+          "status": "present"
+        },
+        {
+          "session": 9,
+          "date": "2026-07-30",
+          "status": "present"
+        },
+        {
+          "session": 10,
+          "date": "2026-07-31",
+          "status": "present"
+        },
+        {
+          "session": 11,
+          "date": "2026-08-03",
+          "status": "absent"
+        },
+        {
+          "session": 12,
+          "date": "2026-08-04",
+          "status": "present"
+        },
+        {
+          "session": 13,
+          "date": "2026-08-05",
+          "status": "present"
+        },
+        {
+          "session": 14,
+          "date": "2026-08-06",
+          "status": "present"
+        },
+        {
+          "session": 15,
+          "date": "2026-08-07",
+          "status": "present"
+        },
+        {
+          "session": 16,
+          "date": "2026-08-10",
+          "status": "absent"
+        },
+        {
+          "session": 17,
+          "date": "2026-08-11",
+          "status": "present"
+        },
+        {
+          "session": 18,
+          "date": "2026-08-12",
+          "status": "present"
+        },
+        {
+          "session": 19,
+          "date": "2026-08-13",
+          "status": "present"
+        },
+        {
+          "session": 20,
+          "date": "2026-08-14",
+          "status": "absent"
+        },
+        {
+          "session": 21,
+          "date": "2026-08-17",
+          "status": "present"
+        },
+        {
+          "session": 22,
+          "date": "2026-08-18",
+          "status": "present"
+        },
+        {
+          "session": 23,
+          "date": "2026-08-19",
+          "status": "present"
+        },
+        {
+          "session": 24,
+          "date": "2026-08-20",
+          "status": "absent"
+        },
+        {
+          "session": 25,
+          "date": "2026-08-21",
+          "status": "present"
+        },
+        {
+          "session": 26,
+          "date": "2026-08-24",
+          "status": "present"
+        },
+        {
+          "session": 27,
+          "date": "2026-08-25",
+          "status": "present"
+        },
+        {
+          "session": 28,
+          "date": "2026-08-26",
+          "status": "present"
+        },
+        {
+          "session": 29,
+          "date": "2026-08-27",
+          "status": "absent"
+        },
+        {
+          "session": 30,
+          "date": "2026-08-28",
+          "status": "present"
+        },
+        {
+          "session": 31,
+          "date": "2026-08-31",
+          "status": "present"
+        },
+        {
+          "session": 32,
+          "date": "2026-09-01",
+          "status": "present"
+        },
+        {
+          "session": 33,
+          "date": "2026-09-02",
+          "status": "absent"
+        },
+        {
+          "session": 34,
+          "date": "2026-09-03",
+          "status": "present"
+        },
+        {
+          "session": 35,
+          "date": "2026-09-04",
+          "status": "present"
+        },
+        {
+          "session": 36,
+          "date": "2026-09-07",
+          "status": "present"
+        },
+        {
+          "session": 37,
+          "date": "2026-09-08",
+          "status": "absent"
+        },
+        {
+          "session": 38,
+          "date": "2026-09-09",
+          "status": "present"
+        },
+        {
+          "session": 39,
+          "date": "2026-09-10",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "cse3131",
+      "code": "CSE3131",
+      "name": "Computer Networks Lab",
+      "attended": 10,
+      "absent": 1,
+      "conducted": 11,
+      "semester_total": 48,
+      "remaining": 37,
+      "has_records": true,
+      "displayed_attendance": "91%",
+      "recent_pattern": [
+        "P",
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "weekly_trend": [
+        83,
+        86,
+        88,
+        89,
+        90,
+        91
+      ],
+      "attendance_history": [
+        {
+          "session": 1,
+          "date": "2026-07-20",
+          "status": "present"
+        },
+        {
+          "session": 2,
+          "date": "2026-07-21",
+          "status": "present"
+        },
+        {
+          "session": 3,
+          "date": "2026-07-22",
+          "status": "present"
+        },
+        {
+          "session": 4,
+          "date": "2026-07-23",
+          "status": "present"
+        },
+        {
+          "session": 5,
+          "date": "2026-07-24",
+          "status": "present"
+        },
+        {
+          "session": 6,
+          "date": "2026-07-27",
+          "status": "absent"
+        },
+        {
+          "session": 7,
+          "date": "2026-07-28",
+          "status": "present"
+        },
+        {
+          "session": 8,
+          "date": "2026-07-29",
+          "status": "present"
+        },
+        {
+          "session": 9,
+          "date": "2026-07-30",
+          "status": "present"
+        },
+        {
+          "session": 10,
+          "date": "2026-07-31",
+          "status": "present"
+        },
+        {
+          "session": 11,
+          "date": "2026-08-03",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "cse3132",
+      "code": "CSE3132",
+      "name": "Software Engineering Lab",
+      "attended": 7,
+      "absent": 2,
+      "conducted": 9,
+      "semester_total": 48,
+      "remaining": 39,
+      "has_records": true,
+      "displayed_attendance": "78%",
+      "recent_pattern": [
+        "P",
+        "P",
+        "A",
+        "P",
+        "P"
+      ],
+      "weekly_trend": [
+        75,
+        80,
+        83,
+        71,
+        75,
+        78
+      ],
+      "attendance_history": [
+        {
+          "session": 1,
+          "date": "2026-07-20",
+          "status": "present"
+        },
+        {
+          "session": 2,
+          "date": "2026-07-21",
+          "status": "present"
+        },
+        {
+          "session": 3,
+          "date": "2026-07-22",
+          "status": "absent"
+        },
+        {
+          "session": 4,
+          "date": "2026-07-23",
+          "status": "present"
+        },
+        {
+          "session": 5,
+          "date": "2026-07-24",
+          "status": "present"
+        },
+        {
+          "session": 6,
+          "date": "2026-07-27",
+          "status": "present"
+        },
+        {
+          "session": 7,
+          "date": "2026-07-28",
+          "status": "absent"
+        },
+        {
+          "session": 8,
+          "date": "2026-07-29",
+          "status": "present"
+        },
+        {
+          "session": 9,
+          "date": "2026-07-30",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "cse3142",
+      "code": "CSE3142",
+      "name": "Android App Development",
+      "attended": 18,
+      "absent": 8,
+      "conducted": 26,
+      "semester_total": 36,
+      "remaining": 10,
+      "has_records": true,
+      "displayed_attendance": "70%",
+      "recent_pattern": [
+        "A",
+        "P",
+        "P",
+        "A",
+        "P"
+      ],
+      "weekly_trend": [
+        75,
+        67,
+        69,
+        70,
+        71,
+        69
+      ],
+      "attendance_history": [
+        {
+          "session": 1,
+          "date": "2026-07-20",
+          "status": "present"
+        },
+        {
+          "session": 2,
+          "date": "2026-07-21",
+          "status": "absent"
+        },
+        {
+          "session": 3,
+          "date": "2026-07-22",
+          "status": "present"
+        },
+        {
+          "session": 4,
+          "date": "2026-07-23",
+          "status": "present"
+        },
+        {
+          "session": 5,
+          "date": "2026-07-24",
+          "status": "absent"
+        },
+        {
+          "session": 6,
+          "date": "2026-07-27",
+          "status": "present"
+        },
+        {
+          "session": 7,
+          "date": "2026-07-28",
+          "status": "present"
+        },
+        {
+          "session": 8,
+          "date": "2026-07-29",
+          "status": "present"
+        },
+        {
+          "session": 9,
+          "date": "2026-07-30",
+          "status": "absent"
+        },
+        {
+          "session": 10,
+          "date": "2026-07-31",
+          "status": "present"
+        },
+        {
+          "session": 11,
+          "date": "2026-08-03",
+          "status": "present"
+        },
+        {
+          "session": 12,
+          "date": "2026-08-04",
+          "status": "absent"
+        },
+        {
+          "session": 13,
+          "date": "2026-08-05",
+          "status": "present"
+        },
+        {
+          "session": 14,
+          "date": "2026-08-06",
+          "status": "present"
+        },
+        {
+          "session": 15,
+          "date": "2026-08-07",
+          "status": "absent"
+        },
+        {
+          "session": 16,
+          "date": "2026-08-10",
+          "status": "present"
+        },
+        {
+          "session": 17,
+          "date": "2026-08-11",
+          "status": "present"
+        },
+        {
+          "session": 18,
+          "date": "2026-08-12",
+          "status": "absent"
+        },
+        {
+          "session": 19,
+          "date": "2026-08-13",
+          "status": "present"
+        },
+        {
+          "session": 20,
+          "date": "2026-08-14",
+          "status": "present"
+        },
+        {
+          "session": 21,
+          "date": "2026-08-17",
+          "status": "present"
+        },
+        {
+          "session": 22,
+          "date": "2026-08-18",
+          "status": "absent"
+        },
+        {
+          "session": 23,
+          "date": "2026-08-19",
+          "status": "present"
+        },
+        {
+          "session": 24,
+          "date": "2026-08-20",
+          "status": "present"
+        },
+        {
+          "session": 25,
+          "date": "2026-08-21",
+          "status": "absent"
+        },
+        {
+          "session": 26,
+          "date": "2026-08-24",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "cse3147",
+      "code": "CSE3147",
+      "name": "Essentials of Cyber Security",
+      "attended": 27,
+      "absent": 5,
+      "conducted": 32,
+      "semester_total": 36,
+      "remaining": 4,
+      "has_records": true,
+      "displayed_attendance": "85%",
+      "recent_pattern": [
+        "P",
+        "A",
+        "P",
+        "P",
+        "P"
+      ],
+      "weekly_trend": [
+        80,
+        87,
+        85,
+        84,
+        83,
+        84
+      ],
+      "attendance_history": [
+        {
+          "session": 1,
+          "date": "2026-07-20",
+          "status": "present"
+        },
+        {
+          "session": 2,
+          "date": "2026-07-21",
+          "status": "present"
+        },
+        {
+          "session": 3,
+          "date": "2026-07-22",
+          "status": "present"
+        },
+        {
+          "session": 4,
+          "date": "2026-07-23",
+          "status": "absent"
+        },
+        {
+          "session": 5,
+          "date": "2026-07-24",
+          "status": "present"
+        },
+        {
+          "session": 6,
+          "date": "2026-07-27",
+          "status": "present"
+        },
+        {
+          "session": 7,
+          "date": "2026-07-28",
+          "status": "present"
+        },
+        {
+          "session": 8,
+          "date": "2026-07-29",
+          "status": "present"
+        },
+        {
+          "session": 9,
+          "date": "2026-07-30",
+          "status": "present"
+        },
+        {
+          "session": 10,
+          "date": "2026-07-31",
+          "status": "absent"
+        },
+        {
+          "session": 11,
+          "date": "2026-08-03",
+          "status": "present"
+        },
+        {
+          "session": 12,
+          "date": "2026-08-04",
+          "status": "present"
+        },
+        {
+          "session": 13,
+          "date": "2026-08-05",
+          "status": "present"
+        },
+        {
+          "session": 14,
+          "date": "2026-08-06",
+          "status": "present"
+        },
+        {
+          "session": 15,
+          "date": "2026-08-07",
+          "status": "present"
+        },
+        {
+          "session": 16,
+          "date": "2026-08-10",
+          "status": "present"
+        },
+        {
+          "session": 17,
+          "date": "2026-08-11",
+          "status": "absent"
+        },
+        {
+          "session": 18,
+          "date": "2026-08-12",
+          "status": "present"
+        },
+        {
+          "session": 19,
+          "date": "2026-08-13",
+          "status": "present"
+        },
+        {
+          "session": 20,
+          "date": "2026-08-14",
+          "status": "present"
+        },
+        {
+          "session": 21,
+          "date": "2026-08-17",
+          "status": "present"
+        },
+        {
+          "session": 22,
+          "date": "2026-08-18",
+          "status": "present"
+        },
+        {
+          "session": 23,
+          "date": "2026-08-19",
+          "status": "absent"
+        },
+        {
+          "session": 24,
+          "date": "2026-08-20",
+          "status": "present"
+        },
+        {
+          "session": 25,
+          "date": "2026-08-21",
+          "status": "present"
+        },
+        {
+          "session": 26,
+          "date": "2026-08-24",
+          "status": "present"
+        },
+        {
+          "session": 27,
+          "date": "2026-08-25",
+          "status": "present"
+        },
+        {
+          "session": 28,
+          "date": "2026-08-26",
+          "status": "present"
+        },
+        {
+          "session": 29,
+          "date": "2026-08-27",
+          "status": "absent"
+        },
+        {
+          "session": 30,
+          "date": "2026-08-28",
+          "status": "present"
+        },
+        {
+          "session": 31,
+          "date": "2026-08-31",
+          "status": "present"
+        },
+        {
+          "session": 32,
+          "date": "2026-09-01",
+          "status": "present"
+        }
+      ]
+    },
+    {
+      "id": "cse3170",
+      "code": "CSE3170",
+      "name": "Project-Based Learning 3",
+      "attended": 0,
+      "absent": 0,
+      "conducted": 0,
+      "semester_total": 0,
+      "remaining": 0,
+      "has_records": false,
+      "displayed_attendance": "No attendance recorded",
+      "recent_pattern": [],
+      "weekly_trend": [],
+      "attendance_history": []
+    },
+    {
+      "id": "fad0051",
+      "code": "FAD0051",
+      "name": "Fashion as Design & Merchandising",
+      "attended": 0,
+      "absent": 0,
+      "conducted": 0,
+      "semester_total": 0,
+      "remaining": 0,
+      "has_records": false,
+      "displayed_attendance": "No attendance recorded",
+      "recent_pattern": [],
+      "weekly_trend": [],
+      "attendance_history": []
+    }
+  ]
+}
